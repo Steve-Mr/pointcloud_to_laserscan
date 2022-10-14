@@ -26,7 +26,7 @@
             # 0 : Detect number of cores
             # 1 : Single threaded
             # 2->inf : Parallelism level
-            concurrency_level: 1
+            concurrency_level: 2
         </rosparam>
 
     </node>
